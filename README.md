@@ -104,16 +104,3 @@ Meu objetivo é atuar na construção de soluções baseadas em dados e intelig�
 <br/>
 <br/>
 
-
-
-<h3 align="left">🔥 Meus Stats :</h3>
-
-<br/>
-<br/>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aleesousa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
