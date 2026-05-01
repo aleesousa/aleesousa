@@ -104,5 +104,5 @@ Me chamo Alexandre Pereira de Sousa, tenho 20 anos e sou de Brasília-DF. Atualm
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=aleesousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
