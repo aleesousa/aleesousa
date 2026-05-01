@@ -10,6 +10,9 @@ Me chamo Alexandre Pereira de Sousa, tenho 20 anos e sou de Brasília-DF. Atualm
 
 ### 🤖 Linguagens e Tecnologias
 
+<br/>
+<br/>
+
 <img 
     align="left" 
     alt="Python" 
