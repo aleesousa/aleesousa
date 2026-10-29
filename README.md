@@ -32,8 +32,8 @@ Meu objetivo é atuar na construção de soluções baseadas em dados e intelig�
 
 <a href="https://github.com/aleesousa?tab=overview#contributions">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:7c83b5/aleesousa" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:6f78a8/aleesousa" />
-    <img src="https://ghchart.xqsit94.in/light:6f78a8/aleesousa" width="822" alt="Calendário de contribuições de Alexandre Sousa no GitHub nos últimos 12 meses" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleesousa/aleesousa/main/assets/contributions-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleesousa/aleesousa/main/assets/contributions-light.svg" />
+    <img src="https://raw.githubusercontent.com/aleesousa/aleesousa/main/assets/contributions-light.svg" width="834" alt="Calendário de contribuições de Alexandre Sousa no GitHub nos últimos 12 meses" />
   </picture>
 </a>
