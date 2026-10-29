@@ -25,3 +25,15 @@ Meu objetivo é atuar na construção de soluções baseadas em dados e intelig�
   <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&amp;theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&amp;theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" />
 </p>
+
+---
+
+### Contribuições
+
+<a href="https://github.com/aleesousa?tab=overview#contributions">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:7c83b5/aleesousa" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:6f78a8/aleesousa" />
+    <img src="https://ghchart.xqsit94.in/light:6f78a8/aleesousa" width="822" alt="Calendário de contribuições de Alexandre Sousa no GitHub nos últimos 12 meses" />
+  </picture>
+</a>
