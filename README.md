@@ -12,36 +12,16 @@ Meu objetivo é atuar na construção de soluções baseadas em dados e intelig�
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
-<br/>
-<br/>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
-
-<br/>
-<br/>
-<br/>
-
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&amp;theme=dark" width="48" height="48" alt="Python" title="Python" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&amp;theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&amp;theme=dark" width="48" height="48" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&amp;theme=dark" width="48" height="48" alt="R" title="R" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&amp;theme=dark" width="48" height="48" alt="Jupyter" title="Jupyter" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&amp;theme=dark" width="48" height="48" alt="Anaconda" title="Anaconda" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&amp;theme=dark" width="48" height="48" alt="React" title="React" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&amp;theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&amp;theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" />
+</p>
