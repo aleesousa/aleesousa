@@ -4,6 +4,15 @@
 
 **`Aspirante a Engenheiro de Inteligência Artificial`**
 
+<p align="left">
+  <a href="https://alexandre-sousa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-24292f?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Acessar meu portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-psousa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Visitar meu LinkedIn" />
+  </a>
+</p>
+
 Me chamo Alexandre Pereira de Sousa, tenho 21 anos e sou de Brasília-DF. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas e estou no meu segundo semestre de Ciências de dados, sigo direcionando minha carreira para a área de Dados, com foco em Ciência de Dados e evolução para Engenharia de IA/ML. Tenho experiência com Python, SQL e bibliotecas como Pandas, NumPy e Scikit-learn, aplicando esses recursos em projetos que envolvem coleta, tratamento e análise de dados, treinamento de modelos, além da geração de insights.
 
 Desenvolvi projetos práticos como um analisador de vagas (Job Analyzer), que realiza coleta de dados via API, processamento e análise do mercado de tecnologia, e soluções com foco em automação e integração de dados. Também possuo experiência com desenvolvimento de aplicações e consumo de APIs, o que amplia minha capacidade de atuar na construção de pipelines de dados e sistemas mais completos.
